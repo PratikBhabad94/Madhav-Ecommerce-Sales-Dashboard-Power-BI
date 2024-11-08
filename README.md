@@ -63,5 +63,10 @@ The dashboard tracks the following KPIs to provide insights into the performance
    marketing strategies.
 
 
+# Conclusion
+
+Customers living in Maharashtra, Madhya Pradesh and Uttar Pradesh purchase the most of the products such as Clothing, Electronics and Furnitures.With high consumer demand for products such as printers, bookcases, and sarees, the platform can focus marketing efforts on these categories.To improve sales of the Madhav E-Commerce Store, the owner must show maximum ads, sale offers/coupons in the months from January to April and December.
+
+
 
 
