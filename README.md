@@ -28,7 +28,9 @@ This project was to design and implement an interactive dashboard for Madhav Sal
 • Data Visualization.
 
 
-# Dashboard Content : The dashboard tracks the following KPIs to provide insights into the performance of the ecommerce business
+# Dashboard Content 
+
+The dashboard tracks the following KPIs to provide insights into the performance of the ecommerce business
 
 1.	Total Sales (Sum of Amount): The total revenue generated from sales within a specific period.
 
