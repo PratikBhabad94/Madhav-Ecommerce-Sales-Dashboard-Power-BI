@@ -50,4 +50,18 @@ The dashboard tracks the following KPIs to provide insights into the performance
 ![image](https://github.com/user-attachments/assets/63f9110d-dbcb-4bab-8d30-16de4a54ea17)
 
 
+# Project Insights
+
+•	Top Purchasing States: The leading states contributing to sales are Maharashtra, Madhya Pradesh, and Uttar Pradesh.
+
+•	Best-Selling Products: The top products include printers, bookcases, and sarees, indicating strong consumer interest in these categories.
+
+•	Payment Methods: The majority of payments are made through Cash on Delivery (44%), followed by UPI (21%) and Debit Card (13%), showcasing 
+   preferred transaction methods among customers.
+
+•	Peak Sales Months: The highest sales occur in January, February, March, and November, suggesting seasonal trends that can be leveraged for 
+   marketing strategies.
+
+
+
 
