@@ -47,4 +47,7 @@ The dashboard tracks the following KPIs to provide insights into the performance
 
 # Dashboard
 
+![image](https://github.com/user-attachments/assets/63f9110d-dbcb-4bab-8d30-16de4a54ea17)
+
+
 
